@@ -12,7 +12,7 @@ Screenshot 2:
 ![screenshot2](./images/screenshot2.jpg)
 
 ## Technical Features
-This app was built using TypseScript, Node.js and the NPM Inquirer package.
+This app was built using TypeScript, Node.js and the NPM Inquirer package.
 ## Credits & How to Contribute
 This was created by Johann Zaroli. Please contact me on GitHub at Jzaroli with any questions or requests.
 ## License
